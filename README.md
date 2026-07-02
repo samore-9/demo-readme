@@ -51,7 +51,7 @@ A full-stack hotel booking application featuring secure authentication, hotel di
 React • Node.js • Express • MongoDB
 
 ---
-
+<!--
 # 💻 Technical Skills
 
 ## Languages
@@ -83,7 +83,19 @@ React • Node.js • Express • MongoDB
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode" />
 </p>
+-->
 
+# 💻 Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | Java, JavaScript |
+| **Frontend** | HTML5, CSS3, React.js |
+| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
+| **Databases** | MongoDB, MySQL |
+| **Tools** | Git, GitHub, Docker, Kubernetes, VS Code, Postman |
+| **Cloud & Deployment** | MongoDB Atlas, Render, Vercel |
+| **Core CS** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
 ---
 
 # 🎯 What I'm Currently Working On
