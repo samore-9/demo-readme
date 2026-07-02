@@ -95,8 +95,8 @@ React • Node.js • Express • MongoDB
 - 🚀 Building production-ready full stack applications
 
 ---
-
-# 📈 GitHub Activity
+<!--
+# 📈 GitHub Activity -->
 
 <!-- Uncomment whenever you want -->
 
@@ -113,7 +113,7 @@ React • Node.js • Express • MongoDB
 <img src="https://streak-stats.demolab.com?user=samore-9&theme=tokyonight&hide_border=true"/>
 </p>
 -->
-
+<!--
 ---
 
 # 🌱 Currently Learning
@@ -125,7 +125,7 @@ React • Node.js • Express • MongoDB
 - Kubernetes
 - Cloud Deployment
 - System Design Fundamentals
-
+-->
 ---
 
 # 📫 Connect With Me
