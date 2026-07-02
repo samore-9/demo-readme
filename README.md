@@ -1,97 +1,50 @@
-# Hi 👋, I'm **Samarth More**
+<h1 align="center">Hi 👋, I'm Samarth More</h1>
 
-<h3>Full Stack Developer • Final Year B.E. Information Technology Student</h3>
+<h3 align="center">
+Full Stack Developer | Final Year B.E. Information Technology Student
+</h3>
 
-Building scalable MERN applications with a strong focus on clean architecture, REST APIs, authentication, and production deployment.
+<p align="center">
+Passionate about building scalable web applications, designing clean backend architectures, and solving real-world problems through software engineering.
+</p>
 
-🚀 **Currently seeking Software Development Internship & Full-Time Software Engineer opportunities (2026 Graduate)**
-
----
-
-## 🚀 Featured Project
-
-# 🎓 EduERP – College ERP Management System
-
-> A production-ready MERN Stack ERP system for educational institutions featuring secure authentication, role-based dashboards, attendance tracking, fee management, library records, timetable scheduling, notifications, reports, and task management.
-
-### 🌐 Live Demo
-
-🔗 **Application:** https://edu-erp-sigma.vercel.app
-
-📡 **Backend API:** https://edu-erp-1hdp.onrender.com
-
-📂 **Repository:** https://github.com/samore-9/edu-erp
-
-### Highlights
-
-- 🔐 JWT Authentication & Role-Based Access
-- 👨‍🎓 Student Dashboard
-- 👨‍🏫 Faculty Dashboard
-- 📅 Attendance Management
-- 💰 Fee Management
-- 📚 Library Module
-- 📝 Assignment & Task Management
-- 📢 Notifications
-- 📈 Reports Dashboard
-- 📆 Timetable Management
-- ☁️ Deployed using **Vercel + Render + MongoDB Atlas**
-
-**Tech Stack**
-
-React • Node.js • Express.js • MongoDB • JWT • REST APIs
+<p align="center">
+🚀 Actively seeking Software Development Internship & Full-Time SDE Opportunities (2026 Graduate)
+</p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year B.E. Information Technology Student
-- 💻 Full Stack MERN Developer
-- 🌱 Currently mastering **Data Structures & Algorithms in Java**
-- 🐳 Learning **Docker & Kubernetes**
-- 🤖 Exploring **n8n Automation**
-- ⚡ Passionate about building production-ready applications that solve real-world problems.
+I'm a Final Year Information Technology student from Pune, India, with a strong interest in Full Stack Development and Backend Engineering.
+
+I enjoy transforming ideas into production-ready applications using modern technologies while continuously improving my problem-solving skills through Data Structures & Algorithms.
+
+Outside development, I'm exploring DevOps practices, cloud deployment, containerization, and workflow automation to better understand the complete software development lifecycle.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Featured Projects
 
-### Languages
+## 🎓 EduERP — College ERP Management System
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js" />
-</p>
+A production-ready MERN Stack application developed for educational institutions featuring authentication, role-based dashboards, attendance management, fee tracking, library management, timetable scheduling, task management, notifications, and reporting.
 
-### Frontend
+**Live Demo**  
+🌐 https://edu-erp-sigma.vercel.app
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+**Repository**  
+📂 https://github.com/samore-9/edu-erp
 
-### Backend
+**Tech Stack**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode" />
-</p>
+React • Node.js • Express • MongoDB • JWT • Docker • Render • Vercel
 
 ---
-
-# 🚀 Other Projects
 
 ## 🏨 Hotel Booking Platform
 
-A full-stack hotel booking application with secure authentication, hotel listings, booking management, and responsive UI.
+A full-stack hotel booking application featuring secure authentication, hotel discovery, booking management, and a responsive user experience with complete backend integration.
 
 **Tech Stack**
 
@@ -99,43 +52,102 @@ React • Node.js • Express • MongoDB
 
 ---
 
-# 🎯 Current Focus
+# 💻 Technical Skills
 
-- 🚀 Building scalable MERN applications
-- 📖 Solving DSA problems in Java
-- 🐳 Docker & Kubernetes
-- 🤖 Workflow Automation using n8n
-- ☁️ Cloud Deployment & DevOps fundamentals
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode" />
+</p>
+
+---
+
+# 🎯 What I'm Currently Working On
+
+- 📚 Strengthening Data Structures & Algorithms using Java
+- ⚙️ Learning Docker & Kubernetes
+- ☁️ Understanding cloud deployment workflows
+- 🤖 Exploring workflow automation with n8n
+- 🚀 Building production-ready full stack applications
+
+---
+
+# 📈 GitHub Activity
+
+<!-- Uncomment whenever you want -->
+
+<!--
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samore-9&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samore-9&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=samore-9&theme=tokyonight&hide_border=true"/>
+</p>
+-->
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Java
+- Backend Architecture
+- REST API Design
+- Docker
+- Kubernetes
+- Cloud Deployment
+- System Design Fundamentals
 
 ---
 
 # 📫 Connect With Me
 
-<p>
+<p align="left">
 <a href="mailto:samore9565@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42"/></a>
 <a href="https://github.com/samore-9"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>
 <a href="https://www.linkedin.com/in/samarthmore/"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
 </p>
 
-📧 **Email:** samore9565@gmail.com
+📧 **Email**  
+samore9565@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/samarthmore
+💼 **LinkedIn**  
+https://www.linkedin.com/in/samarthmore
 
-📂 **GitHub:** https://github.com/samore-9
-
----
-
-## 💡 Interests
-
-- Full Stack Development
-- Backend Engineering
-- System Design (Learning)
-- REST API Development
-- Cloud Deployment
-- Open Source
+🐙 **GitHub**  
+https://github.com/samore-9
 
 ---
 
-> *"I enjoy transforming ideas into reliable software that people can actually use."*
+> *"I believe the best way to learn software engineering is by building real-world products, understanding how they work internally, and continuously improving them."*
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, try the live projects, and connect with me.
+⭐ Thank you for visiting my profile.
+Feel free to explore my repositories, try the live applications, or connect with me to discuss software development, internships, or collaboration opportunities.
